@@ -9,7 +9,7 @@ function Set.new(l)
     end
     return set
 end
-
+local x = 1
 
 --================================================
 function Set.tostring(set)
